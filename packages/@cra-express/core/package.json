@@ -1,6 +1,6 @@
 {
-  "name": "@cra-express/core",
-  "version": "4.3.2",
+  "name": "@gifyourgame/cra-express-core",
+  "version": "4.3.2000",
   "description": "",
   "main": "lib/index.js",
   "files": [
